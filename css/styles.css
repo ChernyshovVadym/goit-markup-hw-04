@@ -98,6 +98,7 @@ button {
 .contact-nav-link {
     display: flex;
     gap: 40px;
+    position: relative;
 
 }
 
