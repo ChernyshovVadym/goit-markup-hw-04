@@ -98,8 +98,6 @@ button {
 .contact-nav-link {
     display: flex;
     gap: 40px;
-    position: relative;
-
 }
 
 
@@ -116,6 +114,7 @@ button {
     padding-top: 24px;
     padding-bottom: 24px;
     display: block;
+    position: relative;
 }
 
 .nav-link:hover,
