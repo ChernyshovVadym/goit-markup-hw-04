@@ -122,6 +122,7 @@ button {
 
 .address {
     font-style: normal;
+    margin-left: auto;
 }
 
 .list-address {
@@ -172,6 +173,7 @@ button {
     /* 107.143% */
     letter-spacing: 1.12px;
     max-width: 496px;
+    margin: 0 auto;
     margin-bottom: 48px;
 }
 
@@ -194,6 +196,7 @@ button {
     border: none;
     border-radius: 4px;
     display: block;
+    margin: 0 auto;
 }
 
 .hero-button:hover,
