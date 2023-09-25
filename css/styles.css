@@ -355,6 +355,10 @@ button {
     justify-content: center;
 }
 
+.team-social-icon {
+    fill: #f4f4fd;
+}
+
 
 /* Our Portfolio section */
 
