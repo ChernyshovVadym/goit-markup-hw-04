@@ -334,6 +334,17 @@ button {
     letter-spacing: 0.32px;
 }
 
+.team-social-list {
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+}
+
+.team-social-item {
+    width: 40px;
+    height: 40px;
+}
+
 
 /* Our Portfolio section */
 
