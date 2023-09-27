@@ -452,6 +452,9 @@ button {
 .container {
     display: flex;
     align-items: baseline;
+}
+
+.container-class {
     margin-right: 120px
 }
 
