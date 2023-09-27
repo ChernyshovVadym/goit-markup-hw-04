@@ -413,9 +413,6 @@ button {
     overflow: hidden;
 }
 
-.tramsform {
-    transform: translateY(0%);
-}
 
 .overlay {
     position: absolute;
