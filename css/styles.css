@@ -130,6 +130,7 @@ button {
 }
 
 .current::after {
+    width: 100%;
     content: "";
     position: absolute;
     left: 0;
@@ -137,7 +138,6 @@ button {
     height: 4px;
     background-color: #404bbf;
     border-radius: 2px;
-
 }
 
 
