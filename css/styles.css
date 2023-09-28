@@ -124,6 +124,13 @@ button {
     color: #404bbf;
 }
 
+.current {
+    position: relative;
+    color: #404bbf;
+}
+
+.current::after {}
+
 
 .address {
     font-style: normal;
