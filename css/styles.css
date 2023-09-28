@@ -360,6 +360,7 @@ button {
     line-height: 24px;
     /* 150% */
     letter-spacing: 0.32px;
+    margin-bottom: 8px;
 }
 
 .team-social-list {
@@ -449,8 +450,7 @@ button {
 
 }
 
-.team-list-item:hover .overlay,
-.team-list-item:focus .overlay {
+.team-list-item:hover .overlay {
     transform: translateY(0%);
 }
 
@@ -502,6 +502,10 @@ button {
 .container {
     display: flex;
     align-items: baseline;
+}
+
+.footer-container {
+    display: flex;
 }
 
 .container-class {
