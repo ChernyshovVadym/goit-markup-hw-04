@@ -386,6 +386,12 @@ button {
     justify-content: center;
 }
 
+.team-social-item-list:hover,
+.team-social-item-list:focus {
+    background-color: #404bbf;
+}
+
+
 .team-social-icon {
     fill: #f4f4fd;
 }
