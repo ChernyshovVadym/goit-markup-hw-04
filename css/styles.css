@@ -589,14 +589,11 @@ button {
     justify-content: center;
 }
 
-.media:hover {
-    background-color: #31d0aa;
-}
-
-
+.media:hover,
 .media:focus {
     background-color: #31d0aa;
 }
+
 
 
 .link {
